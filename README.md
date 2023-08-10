@@ -11,10 +11,10 @@
 
 ## 2. ERD 설계
 
-* erd 
+* **erd** 
 ![erd](https://github.com/Vida0822/Survey_DBModeling/assets/132312673/58e8d030-3de1-404e-8b4c-fdf6ecdceb54)
 
-* eXERD
+* **eXERD**
 ![eXERD](https://github.com/Vida0822/Survey_DBModeling/assets/132312673/662b0a87-c099-48c6-a754-15c370b468a8)
 
 <details>
